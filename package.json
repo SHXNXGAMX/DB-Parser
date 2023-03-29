@@ -1,0 +1,16 @@
+{
+  "name": "db-parser",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "repository": "https://github.com/shxnxgamx/db-parser",
+  "author": "shxnxgamx",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  }
+}

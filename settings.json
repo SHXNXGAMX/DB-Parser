@@ -1,0 +1,12 @@
+{
+	"IOOptions": {
+		"inputSQLFile": "old_db.sqlite",
+		"outJSON": false,
+		"outSQL": false,
+		"dirJSON": "json",
+		"outSQLFile": "new_database.sqlite"
+	},
+	"path": {
+		"db": "./database/"
+	}
+}
